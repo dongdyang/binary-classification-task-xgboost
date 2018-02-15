@@ -1,0 +1,531 @@
+Timestamp,What is your favorite number?,What was the maximum temperature in your area yesterday?,What is the name of your favorite comic book character?,What genre of music do you like to listen to?,How much total rainfall did your city/region receive in 2016? (in inches),What is the title of the book that you are reading (or last read)?,How many pages are there in that book?
+8/21/2017 11:35:02,42,84,Naruto,Country,28.2,How to make friends and influence people,288
+8/21/2017 20:16:03,32,80,Superman,Rock,45,Executive Power,512
+8/21/2017 20:35:22,21,91,Flash,Hip-Hop,54,Waking Up,312
+8/21/2017 21:13:48,39,91F,Spiderman,EDM,38.69,1q84,928
+8/22/2017 5:38:36,6,102.2,Batman,New Age,42,Game Theory,310
+8/22/2017 22:33:16,3,80,Batman,Country,50,See Me,486
+8/23/2017 9:57:22,10,90,Tony Stark ,Rock,43,The Signal and the Noise,560
+8/23/2017 11:32:40,509,81,Static,Jazz,,The Great and Holy War,377
+8/23/2017 14:24:33,7,85,Super Machine Learning Man,Rock,10,Pillar of the Earth,1023
+8/23/2017 14:25:36,4,95,Superman,Trap,41,Three-body Problem,302
+8/23/2017 18:18:39,21,84 degree F,Deadpool,Rap,27,Machine Learning,400
+8/24/2017 9:49:34,555,31,Woody Woodpecker,Jazz,43,Our Pristine Mind,194
+8/24/2017 15:57:44,8,80,Adam,Pop,42,Deep Learning with Keras,303
+8/25/2017 11:49:00,42,90,Wolverine,Blues,35.5,Make Something Up: Stories You Can't Unread,336
+8/25/2017 16:14:12,23,79,Superman,Pop,21,zero to one,224
+8/26/2017 12:32:59,127,94,Wonder Woman,Rock,21,Seven Eves,880
+8/26/2017 13:56:50,31,74,spiderman,Rap,22,death in the air,304
+8/27/2017 2:21:14,13,110,Tintin,Country,2.49,Freakonomics,336
+8/27/2017 6:06:10,Blue,29 Degree Celsius,Batman,Rock,10,A Tree Grows in Brooklyn,860
+8/27/2017 12:33:44,73,73 deg F,Jessica Jones,Rock,35,Never Say Die,385
+8/27/2017 12:39:48,7,86,Christian Walker,Hip-Hop,38.7,Hyperion,481
+8/27/2017 12:43:50,42,87,Wolverine,Rock,14.68,The Martian,369
+8/27/2017 13:22:18,12,82,John Snow,Country,56,Kubernetes Up and Running,300
+8/27/2017 16:03:44,13,26,Bruce Wayne,Piano,45.18,Unit Operations,305
+8/27/2017 16:18:18,7,76,Bruce Wayne,Pop,42.82,Hands-On Machine Learning with Scikit-Learn and TensorFlow,760
+8/27/2017 17:00:07,13,80,None,Pop,100,Python for machine learning,700
+8/27/2017 17:24:35,74,91.1F,Groot,Anime\JPop,28.06,"An Introduction to statistical learning, with applications in R.",426
+8/27/2017 17:35:31,44,82,Wolverine,Country,48,A little history of the world,304
+8/27/2017 18:51:26,7,75,Rick Grimes,Rock,45.6,Fahrenheit 451,156
+8/27/2017 19:14:52,13,75,Tony Stark,Rock,44,Deep Learning,720
+8/27/2017 23:12:59,3,79 F,Batman,Rock,,Red Mars,592
+8/28/2017 2:29:36,3,50,spider man,Rock,42,The Economics of Electricity Markets,768
+8/28/2017 10:28:21,42,90,Nightcrawler,Instrumental,44.44,The Martian,369
+8/28/2017 10:59:07,37,76F,Black Widow,Pop,64.13,The Well Of Ascension,750
+8/28/2017 12:24:35,6,39C,iron man,Jazz,9.65,Hunger Game book 3,390
+8/28/2017 14:37:50,7,105 F,Dilbert,Indian Classical Fusion,30.75,Deep Learning,900
+8/28/2017 17:49:19,2,86,Gutz,Rock,2000,Eyes of a Blue Dog,378
+8/28/2017 19:11:44,17,73,Superman,Pop,60.81,Probabilistic Robotics,647
+8/28/2017 19:36:21,25,85,Flash,Rock,26,Analysis,300
+8/28/2017 20:53:51,3,88,Spiderman,Rock,35.48,Old Man's War,318
+8/28/2017 20:54:51,7,98,Batman,Hip-Hop,35.48,Data Structures and Algorithms in Python,770
+8/28/2017 20:55:55,e,87�,Fat Freddy,Rap,9.65,Shift,576
+8/28/2017 20:56:35,2,74*F,Superman,Blues,102.52,Democracy In Chains,368
+8/28/2017 20:58:33,11,82 F,Superman,Bollywood,46.89,R Programing Chapter,24
+8/28/2017 21:04:51,34,25,Captain America,Classical,32,Superforecasting: The Art and Science of Prediction,328
+8/28/2017 21:05:38,8,80,Goku,Country,24,Everyone's a Aliebn When Ur a Aliebn Too,304
+8/28/2017 21:11:18,12,33,,Rock,45.18,The Seven Pillars of Statistical Wisdom,223
+8/28/2017 21:12:47,45,78,Rorschach,Rock,35.98,Do Androids Dream of Electric Sheep?,210
+8/28/2017 21:12:54,99,75F,Mumen Rider,Pop,42.17,Influence: The Psychology of Persuasion,189
+8/28/2017 21:14:23,11,79,Fantastic Four,Rock,23,Harry Potter and the Half Blood Prince,619
+8/28/2017 21:17:34,42,88,The flash,Movie scores ,41,And on that bombshell ,298
+8/28/2017 21:21:20,23,75,Spiderman,Classical,35,Harry Potter,223
+8/28/2017 21:23:55,12357,69,Doctor Strange,Trance,36.09,The Name of the Wind,662
+8/28/2017 21:24:10,67,78,NAN,Country,31,an introduction to error analysis,327
+8/28/2017 21:24:49,4,98,Archie,Country,30.75,Inferno,461
+8/28/2017 21:25:05,6,21 celsius,kakome,Pop,39.69,Financial Risk Manager-04,384
+8/28/2017 21:28:51,42,95,Iron Man,Rock,42,Chronicles of Narnia,765
+8/28/2017 21:34:05,min,76,Luffy,Country,35,Flash Boys: A Wall Street Revolt by Michael Lewis,320
+8/28/2017 21:35:33,9,110,Popoye,Pop,5,Lean in,300
+8/28/2017 21:36:43,7,85,Batman,Country,61.24,The Shack,256
+8/28/2017 21:41:47,42,81,Batman,Rock,19,The Three-Body Problem,416
+8/28/2017 21:43:44,17,79,Gin,Pop,35.67,Mathematical Statistics,939
+8/28/2017 21:46:24,12,81 F,Iron Man,Blues,9.65,Naked Statistics,282
+8/28/2017 21:47:40,23,86,Wolverine,Pop,35.48,Unbelievable?,300
+8/28/2017 21:48:46,13,73,Conan,Pop,38.7,Freakonomics,336
+8/28/2017 21:55:53,9,90,Iron Man,Pop,38.69,The Sympathizer,382
+8/28/2017 22:05:29,47,78,Deadpool,Trip-hop,38.7,Lisey's Story - Stephen King,509
+8/28/2017 22:07:47,7,84,Professor X,Pop,11.57,The power of habits,156
+8/28/2017 22:14:35,131,75,Nagraj,Rock,52,Mistakes in history,200
+8/28/2017 22:14:56,3.14,71,Nightcrawler,Rock,33.7,A Wrinkle in Time,211
+8/28/2017 22:15:23,7,81,Naruto,Pop,9.65,Machine learning,400
+8/28/2017 22:23:38,3,28 celcius,Spiderman,Pop,141,Data Mining Algorithms,718
+8/28/2017 22:24:17,5,92,Magneto,Hip-Hop,200,Giver,195
+8/28/2017 22:31:33,8,93f,spider man,Rock,38.7,Fundamentals of Database Systems 7th Edition,1273
+8/28/2017 22:41:15,8,82 degree F,none,gospel ,88,life's prescription,156
+8/28/2017 22:54:23,7,79,Doraemon,Pop,38.69,Word power made easy,560
+8/28/2017 23:04:40,7,86,Spider Man,Rock,37.49,Problem Solving and Program Design In C,724
+8/28/2017 23:11:38,42,79,Batman,Rock,100,Fellowship of the Ring,423
+8/28/2017 23:17:36,42,85,Wolverine,All genres,11.85,Conversations With God,211
+8/28/2017 23:25:25,42,83 F,Deadpool,Instrumental,47.14,Ready Player One,384
+8/28/2017 23:37:35,29,80,Batman,Pop,15,Database System,1000
+8/28/2017 23:48:13,7,24 Celsius,Goku,Pop,40.47,Fate/Zero,811
+8/28/2017 23:51:10,16,28,Archie,salsa,45.18,Queen of the south,523
+8/29/2017 0:01:46,4,100,None,Country,23,Skills,34
+8/29/2017 0:19:52,1,88,,Pop,,,
+8/29/2017 0:24:39,7,24,Archie,Rap,36,The Nix,640
+8/29/2017 0:26:42,8,78F,superman,Country,37,Algorithms,332
+8/29/2017 0:35:06,57,91,Barry Ween,Electronica,62.34,Mindshift,304
+8/29/2017 0:37:38,9,70,Wonder Woman,New Age,NA,python for finance,566
+8/29/2017 0:44:32,65536,87,Dr. Strange,House,45.18,"Another Day, Another Dungeon",339
+8/29/2017 0:51:29,6,84.2,Phantom,Carnatic,110,The Last Town,306
+8/29/2017 1:10:00,12,89,Tan Tan,Hip-Hop,9.65,The 4 hour work week,426
+8/29/2017 1:16:19,7,105,Batman,Country,9.65,The Pheonix Project,338
+8/29/2017 1:53:53,7,85F,Wonder Woman,Pop,24,Over-diagnosed,585
+8/29/2017 2:35:39,3,78,,Classical,9.56,Moby-Dick,2570
+8/29/2017 3:19:37,1,104,spider man,Country,31,Wizard of oz,256
+8/29/2017 3:57:47,44,27,Dead Pool,Blues,25,What Hedge Funds Really Do: An Introduction to Portfolio Management,148
+8/29/2017 3:58:39,13,31 degrees Celsius,Batman,Techno,34.5,Judea Pearl - Causality,484
+8/29/2017 5:54:11,1337,15,Asterix,Rock,58.4,Name of the Wind,662
+8/29/2017 6:35:30,7,82,The Flash,Pop,32.7,Dance with Dragons,1080
+8/29/2017 7:23:25,997,"76 F","Either ""the Tick"" or ""Twilight Sparkle""","Glitch, Gaming Techno",41,Orcad PSpice and Circuit Analysis,609
+8/29/2017 7:30:26,19,76,None,Pop,200,"Thinking, Fast and Slow",499
+8/29/2017 8:39:37,41,80,Batman,Rock,55,Data Smart,409
+8/29/2017 8:46:13,21,74,Wolverine,Rock,33,Andrew Jackson: His Life & Times,656
+8/29/2017 8:48:03,2,86,Batman,Electronic Dance Music (EDM),33.7,The Road,287
+8/29/2017 8:56:14,3,91,The Arrow,,51.79,The Wise Man's Fear,994
+8/29/2017 9:24:39,7,80,Spiderman,Jazz,42,Deep Learning,800
+8/29/2017 9:33:23,11,87,Roy Mustang,Jazz,38.41,The Name of the Wind,722
+8/29/2017 9:43:07,11,84,Batman,Rap,38.7,The Billion Dollar Spy,432
+8/29/2017 9:58:46,42,73,Spiderman,Jazz,40.58,Songs of a Distant Earth,336
+8/29/2017 10:17:26,7,108,Ironman,Pop,20.19,Game of Thrones,800
+8/29/2017 10:31:51,13,19,Ms. Marvel,Rap,56.03,Ancillary Justive,250
+8/29/2017 10:54:35,29,72,Son Goku,Hip-Hop,27.04,1984,328
+8/29/2017 10:55:37,4,86,Iron Man,Pop,38,The Lathe of Heaven,175
+8/29/2017 11:31:06,21,77,superman,Pop,42.17,R in action,450
+8/29/2017 11:34:32,100,34,Dilbert,Jazz,30,R for Data Science,480
+8/29/2017 11:39:10,4,82,Calvin,Country,56.68,How God Changes Your Brain,368
+8/29/2017 12:06:28,13,74 F,Superman,Hip-Hop,30.75,All the Light we Cannot See,544
+8/29/2017 12:06:58,7,92,Superman,Pop,39.85,None,0
+8/29/2017 12:15:28,1,48 degrees celsius,dennis,ambient electrofunk,1,sapiens,442
+8/29/2017 12:38:46,11,92,Flash,Alternative,16.18,Food for Fitness,414
+8/29/2017 12:39:02,42,96,Batman,Rock,45.18,Chronicles of the Black Company,704
+8/29/2017 12:41:21,,89,Superman,Rock,59.63,Clash of Kings,821
+8/29/2017 14:56:16,7,81 F,Deadpool,Rock,45.17 inches,Astrophysics for People in a Hurry,224
+8/29/2017 17:18:46,7,80,Princess Bella,Pop,8,When breath becomes air,454
+8/29/2017 17:36:54,9,70,Batman,Hip-Hop,42.17,Blood of Elves,320
+8/29/2017 17:43:36,7,87F,Luffy,Pop,37.49 inches,Introduction to Algorithms,1298
+8/29/2017 18:39:04,19,80,Amy,Hip-Hop,80,Live,149
+8/29/2017 18:39:05,85,57,Calvin,Classical,23.6,Courage to Act,624
+8/29/2017 19:07:35,8,82,Spider-man,Pop,40.68,The girl on the train,395
+8/29/2017 20:04:31,7,113,Archie,Indian,,,
+8/29/2017 20:17:34,81,89,Calvin,Blues,35.48,Speed of Trust,350
+8/29/2017 21:11:06,17,76,Iron Man,Rock,51.25,The Lady of the Lake (The Witcher Book 5) ,560
+8/29/2017 21:50:48,3,77,Phoenix,Rock,30.72,The Color of Magic,293
+8/29/2017 21:51:13,1,82,batman,Hip-Hop,53,Gardens Of the Moon,666
+8/29/2017 22:00:33,72,69,Batman,Hip-Hop,50,Spark,292
+8/29/2017 22:32:13,10,98.6,,Jazz,,Prgramatic Programmer,352
+8/29/2017 22:50:44,5,70F,Wolverine,Rock,4.1,Bahubali,174
+8/29/2017 22:54:12,5,75,Ironman,Hip-Hop,43,The China Study,441
+8/29/2017 23:02:33,9,80F,Dora,Rock,5,Questions Answered,312
+8/29/2017 23:22:00,7,70,blue angel,Pop,50,my half life,756
+8/30/2017 1:30:49,1,91,Gambit,Rock,13.92,The Father Connection,193
+8/30/2017 7:11:28,6,88,Spiderman,Rock,44.44,Moonwalking with Einstein,331
+8/30/2017 9:32:54,11,68,Garfield,Jazz,42.17,Zero to One,224
+8/30/2017 11:24:18,7,80,Mickey Mouse,Rock,12,the Handmainden,185
+8/30/2017 11:26:14,5,80,none,none,0.1,Nikola Tesla,46
+8/30/2017 13:43:00,4,90,Idefix,Jazz,7.45,Snow crash,480
+8/30/2017 13:49:13,24,72,,Any,42,Selected Essays by Ralph Waldo Emerson,413
+8/30/2017 14:46:03,22,32 C,Drogba,Pop,12.2047,Half Girlfriend,280
+8/30/2017 16:10:01,1,82,Batman,Rock,15,Off to Be the Wizard,226
+8/30/2017 18:09:34,7,30�C,Batman,Rock,30,The Kiterunner,371
+8/30/2017 19:10:47,24,77F,Batman,Classical,14.48,A Game of Thrones,694
+8/30/2017 19:11:51,3,76,N/A,Rock,11.85,Schrodinger's Cat and Einstein's Dice,288
+8/30/2017 21:52:53,4,75,Superman,Pop,5,The power of now,235
+8/30/2017 22:18:44,8,21,Bruce Wayne,Rock,32.7,What Hedge Funds Really Do,136
+8/31/2017 7:05:21,94,80,wolverine,Electric swing,35.48,Amaze Every Customer Every Time,240
+8/31/2017 9:04:46,8,93,Spiderman,Country,52.56,Why Don't We Listen Better?,223
+8/31/2017 10:00:19,4,76,Aquaman,Rock,35.32,You Are Not So Smart,320
+8/31/2017 14:38:33,9,83,bugs,Pop,20,Innovators,532
+8/31/2017 14:58:08,7,83,Wolveriene,Rock,40.31,Peace Like a River,320
+8/31/2017 15:45:00,17,100,Magneto,Metal,50,The Lord of the Rings,892
+8/31/2017 17:58:37,8,84,Superman,Country,10.23,Learning Python,1648
+8/31/2017 18:22:56,37,77,Batman,Rock,49,Beyond Good and Evil,240
+8/31/2017 19:17:31,29,21 celcius,snoopy,chillstep,45.18,To Kill a MockingBird,376
+8/31/2017 19:30:42,19,74,Magneto,Rock,34.85,The Habsburg Empire,574
+8/31/2017 19:47:44,2,82,Batman,Country,60.96,Harness Oil and Gas Big Data with Analytics,364
+8/31/2017 20:49:53,4,75 F,Iron Man,Rock,47,The Black Swan,444
+8/31/2017 21:43:54,88,96,6,Country,5.14,3,505
+8/31/2017 22:37:01,101,91,Hobbes,Pop,30.75,Machine Learning,414
+8/31/2017 22:37:57,22,70 F,Batman,Pop,20.85,The Prime,320
+8/31/2017 23:35:37,6,30,Tom and Jerry,Pop,70,Algorithm,1000
+09/01/2017 7:46,7,79,Iron Man,Rock,30,Hillbilly Elegey,300
+09/01/2017 10:45,2,82 Degrees Fahrenheit ,Ironman,Indie,40,More Money Than God,496
+09/01/2017 11:19,7,77,none,Rock,no idea,machine learning,450
+09/01/2017 16:25,12,84,Spiderman,Hip-Hop,25,A Clash of Kings,768
+09/01/2017 19:09,16,101,Captain America,Dance,17,How to win friends and influence people,288
+09/01/2017 19:23,18,70,Saga,Pop,,python machine learning,500
+09/01/2017 19:26,69,69,Captain America,Rock,28.43,The Road Ahead: Fiction From the Forever War,348
+09/01/2017 21:58,1,78,Apocalypse,Progressive Bluegrass,61.61,Machine Learning,432
+09/01/2017 21:59,7,81,Venom,Rock,95,Hillbilly Elegy,264
+09/02/2017 5:05,7,73,Iron Man,Instrumental,55,A Song of Ice and Fire:  Game of Thrones,694
+09/02/2017 9:41,9,64,Iron Man,Rock,42,The Phoenix Project,376
+09/02/2017 21:45,69,72,Spiderman,Jazz,40,On the Genealogy of Morals,500
+09/02/2017 22:12,7,18,Super Man,Rap,1176,The Da Vinci Code,454
+09/02/2017 22:20,8,88,batman,Electronica,56,Emotions Revealed,320
+09/03/2017 0:45,77,90,Batman,Ethereal,30.75,Fathered by God,225
+09/03/2017 1:47,24,107,Captain America,Rock,14.48,Getting Things Done,288
+09/03/2017 8:57,5,81,Spider Man,Rock,39.65,To The Lighthouse,209
+09/03/2017 10:07,3,65 F,Superman,Rock,31.69,Jane Eyre,629
+09/03/2017 12:38,��,30,Venom,Pop,55,The Circle,492
+09/03/2017 13:12,Tuesday,85,Tony the tiger,60s rock,10,David and goliath,400
+09/03/2017 13:56,1,107,Spider Man,Jazz,15,First Strike,375
+09/03/2017 14:00,8,66 F,Hobbes,Jazz,42.82,Cracking the Coding Interview ,687
+09/03/2017 14:51,1,75,Spiderman,Pop,30.3,Communication Systems Engineering,889
+09/03/2017 15:12,7,81,spiderman,Hip-Hop,35.16,the mystery of the blue train,297
+09/03/2017 16:35,6,68,Snoopy,Country,30.01,R in a nutshell,722
+09/03/2017 16:49,7,100,Goku,Hip-Hop,100,Reinventing American Healthcare,400
+09/03/2017 16:54,7,94F,Batman,Hip-Hop,35.48,Martian,385
+09/03/2017 18:52,6,72,Superman,Blues,30,A first course in database system,502
+09/03/2017 19:57,7,101,Wolverine,Blues,19.65,Stranger in a Strange Land,438
+09/03/2017 20:16,26,88,Galactus,Electronic,45.18,Foundation,234
+09/03/2017 22:01,66,96,6,Blues,2.34,5,236
+09/03/2017 22:48,17,98,I don't read comic books,Rock,25.43,Practical Object-Oriented Design in Ruby,272
+09/03/2017 23:11,3,90,Easley,Rock,200,Worldly Philosopher,500
+09/04/2017 1:48,3,75,Super Commando Dhruv,Rock,50,The Leader Who Had No Title,224
+09/04/2017 3:38,1,110,Spiderman,Rock,14.31,A Clash of Kings,768
+09/04/2017 7:25,Inf,75F,Silver Surfer,Rock,31.3,Brave New World,384
+09/04/2017 9:54,8,82,Sesshoumaru,Rock,28.9,The Twilight Saga,498
+09/04/2017 10:46,7,97,Punisher,Rock,49.63,The Martian,369
+09/04/2017 11:34,12,62,,Classical,24.8,Deep Thinking,290
+09/04/2017 12:03,7,34,Iron Man,Country,828.5 inches,By the Pricking of My Thumbs,256
+09/04/2017 14:14,42,78,deadpool,edm,41,Death's End,604
+09/04/2017 16:09,99,78,star war,Jazz,10,introduction to algorithm,1100
+09/04/2017 19:33,7,21,Ultraman,Rap,390.6,Machine Learning,432
+09/04/2017 20:34,5,90,sabu,Pop,100,machine learning,900
+09/04/2017 20:42,21,85,Ironman,EDM,38.7,Ecommerce Evolved,309
+09/04/2017 21:04,7,86,sipderman,Gospel,8,R Programming,380
+09/04/2017 21:06,21,90,Spiderman,Hip-Hop,31.7,The Firm,545
+09/04/2017 21:29,4,104,batman,Pop,2,R in nutshell,300
+09/05/2017 0:08,13,101,Batman,Techno,22,The Pragmatic Programmer,320
+09/09/2017 13:40,9,90F,iron hand and invisible man,Hip-Hop,20,yogi jurney,30
+09/09/2017 19:57,9,99,na,Country,2,how to make friends and influence others ,56
+09/09/2017 21:25,11,80,Yuanjie Zheng,Country,32.34,The autobiography of Bertrand Russell,386
+09/09/2017 22:48,5,100,Qiaoba,Pop,30,Principles,200
+09/10/2017 2:47,4,31,batman,Country,23,mastering metrics,200
+09/10/2017 21:36,7,78,sandman,Rock,13.47,data analysis,220
+09/10/2017 22:46,8,80,batman,Blues,35.97 inches,Harry Potter and the Cursed Child,336
+09/11/2017 10:15,3,16,donald duck,Jazz,30,Wings of fire,400
+09/11/2017 14:45,6,303K,Pokemon,Rap,150,Gone with the wind,1400
+09/11/2017 20:16,666,80,rick,Blues,52.56,Strange Stones Dispatches From East And West,384
+09/11/2017 22:46,13,73 F,Dragon Ball,Pop,13.9 inch,AI,1000
+09/11/2017 23:41,8,86,Saitama,instrumental,40,1q84,928
+09/12/2017 1:50,31,86,superman,Compas,no idea,Smart Money Smart Kid,498
+09/12/2017 13:48,4,75,Nagraj,Pop,32.34,Elements of Statistical Learning,
+09/12/2017 17:26,17,97,ahq,Pop,6.28,Finance in Python,585
+9/13/2017 13:55:03,7,105,spider man,Hip-Hop,10,Pride and prejudice,432
+9/13/2017 14:45:02,5,64,Son Goku,Pop,38.69,Tuesdays with Morrie,192
+9/14/2017 0:05:02,6,80,tintin,classical,,,
+9/14/2017 2:10:35,5,34,batman,Jazz,30,the last book,163
+9/14/2017 8:35:16,7,91 F,ironman,Rap,61,TALK LIKE TED,250
+9/14/2017 17:22:43,4,86,Superman,Blues,34.25,gone with the wind,1037
+9/14/2017 23:22:10,4,28,Astro,Country,480,Machine Learning,280
+9/15/2017 13:09:41,492,80,Captain America,Pop,39.12,deep learning,300
+9/15/2017 15:22:30,66,79,kiki,Blues,33.28,Homo Deus: A Brief History of Tomorrow,448
+9/15/2017 22:09:41,11,78,Superman,Bollywood,,,
+9/16/2017 15:59:50,21,84,Wolverine,Rock,9,Pride and Prejudice,25
+9/16/2017 19:05:29,21,90,Firoozeh,Pop,30,Catcher of the Rye,190
+9/17/2017 1:05:44,1,91,Monkey D Luffy,Rock,56.73,The Lean Startup,336
+9/17/2017 11:07:36,0,85,N/A,Dubstep/Eectronica,51.25,Second Foundation,210
+9/17/2017 11:39:44,9,80 Degrees F,Tintin,Rock,46.23 inches,Introducing Game Theory and Its Applications,225
+9/17/2017 11:40:36,4,82,Wolverine,Pop,79,The Principles of Product Development Flow: Second Generation Lean Product Development,276
+9/17/2017 13:58:35,8,74,Superman,Rap,46,Grit,353
+9/17/2017 16:12:05,7,85,outman,Hip-Hop,70,head first java,500
+9/17/2017 20:21:32,13,611,Iron Man,Rock,45.18,Mindset,288
+11/29/2017 8:06:34,,,,,,,
+01/04/2018 5:48,8,19,Luffy,Country,0.39,Machine Learning,460
+01/08/2018 13:08,13,35,Spiderman,Jazz,34.67,The Hero of Ages,572
+01/08/2018 13:49,73,39,spiderman,edm,40.69,Bayesian Data Analysis 3,675
+01/08/2018 17:35,15,13,pooh,Rap,77,wonder,159
+01/08/2018 18:53,9,47,Green Lama,Classical,105.2,"Hollywood Stars Baseball in Movieland, 1926-1957",263
+01/08/2018 20:59,13,26,,Classical,45,Air Awakens,1513
+01/08/2018 21:47,7,39F,Dilbert,Rock,38.69,Pride & Prejudice,432
+01/09/2018 21:34,3,-2,Wonder Woman,Classical,11.7,La Chartreuse de Parme,567
+01/09/2018 22:50,7,37,Natsu,Rock,46,Python for Finance,586
+01/10/2018 16:02,10,40,Wolverine,Hip-Hop,32,Code Complete,440
+01/10/2018 21:39,7,42,Spiderman,Rock,30.2 inches,"Algorithms by Dasgupta, Papadimitriou, Vazirani",320
+01/11/2018 3:59,Pi,63,Spiderman,Rock,38,Principles,592
+01/11/2018 22:44,25,68,Ironman,Rock,42.39,The Brothers K,645
+01/12/2018 9:05,4,32 degree celsius,chacha chaudhary,Rap,570 mm,Algorithms,320
+01/12/2018 18:39,3,29,Batman,Rock,45,The Robots of Dawn,419
+1/13/2018 4:42:53,23,26,Spiderman,Rock,91.7,Leonardo da vinci,624
+1/13/2018 20:04:06,8,50,iron man,Hip-Hop,10.94,East of Eden,608
+1/13/2018 22:10:13,42,40F,Roarschach,Post-Grunge,,The Righteous Mind: Why Good People Are Divided by Politics and Religion,528
+1/13/2018 22:24:52,21,51,Spiderman,Jazz,45,Mosquito Coast,373
+1/13/2018 23:34:34,42,36 F,Wolverine,Classical,38.69,The Dark Tower,300
+1/13/2018 23:56:51,3,82 F,Iron Man,Rock,8.18,Complete Western Stories of Elmore Leonard,576
+1/14/2018 0:20:20,2,60 F,Mystique,Pop,25.52,Founding Brothers,288
+1/14/2018 1:35:01,7,95,Superman,Rock,54.55,Crazy Rich Asians,403
+1/14/2018 10:05:34,7,19F,Michelangelo,Rap,56,What Hedge Funds Really Do: An Introduction to Portfolio Management,146
+1/14/2018 15:30:15,12,36,Deadpool,Electronic,38.69,Machine Platform Crowd,400
+1/14/2018 17:00:27,2,21,Spiderman,Hip-Hop,33,Pears and Perils,284
+1/15/2018 1:50:01,3,52 degrees Fahrenheit,Jean Grey,Rock,41.96,Morning Star,545
+1/15/2018 8:26:57,7,23,flash,Pop,999,star war,98
+1/15/2018 13:30:30,1,30,spider man,Rap,42.17,Machine Learning by Tom Mitchell,421
+1/15/2018 18:46:48,27,6,Phantom Duck,Jazz,40,the naked ape,256
+1/16/2018 0:42:48,7,54,Thor,Alternative,17.25,World in My Eyes,524
+1/16/2018 1:40:14,42,50F,Flash,Rock,18,Effective Java,363
+1/16/2018 12:42:41,42,10,batman,Folk,25.71,Cryptonomicon ,918
+1/16/2018 17:04:29,3,67,Joker,EDM,23,Blackswan,400
+1/16/2018 19:21:46,6.7,46,Don't have one,Rock,32.56,It,1157
+1/16/2018 19:23:21,28,18F,Wolverine,Rock,44,Take The Stairs,224
+1/16/2018 22:27:20,Pi,16 F,The Flash,Pop,37.6,Only Dead on the Inside: A Parent's Guide to Surviving the Zombie Apocalypse,200
+1/17/2018 15:34:34,9,54,Ironman,Rock,25.27,Polymer Physics,298
+1/17/2018 20:28:37,6,33,Archie,Country,14.02,R for Data Science,522
+1/17/2018 22:25:43,9,20,supandi,Pop,52.48,Principles,592
+1/17/2018 22:30:03,7,64,Arale,Pop,1,R Programming,24
+1/17/2018 22:47:06,13,55,Wolverine,Rock,44.52,Armada,368
+1/17/2018 23:31:46,7,33,Batman,Rock,42.17,The Stand,1152
+1/17/2018 23:55:28,1.618 (�),12.7�C,,Classical,106.7 cm,Harry Potter und die Kammer des Schreckens,316
+1/18/2018 5:14:23,10,36 degrees celcius,Kenshin Himura,Pop,0.590551,The Last Wish,280
+1/18/2018 10:55:50,7,28,Not that I know,indie,50,R programming,242
+1/18/2018 14:33:32,13,0,Rage,Pop,,Disappearance Boy,282
+1/19/2018 0:39:16,2,60,Iron Man,Jazz,0,,
+1/19/2018 1:40:47,8,15 celsius,Ironman,Blues,37.49 inches,Desserts,303
+1/19/2018 5:52:27,3,70,wolverine,Rock,20,a farewell to arms,200
+1/19/2018 18:57:35,7,54,Batman,Rock,37.83,Solar Bones,272
+1/19/2018 21:24:30,7,46,Spiderman,Rock,43.92,Introduction to Algorithms,1312
+1/20/2018 0:39:13,13,86,Naruto,Country,19,The Intelligent Investor,640
+1/20/2018 5:35:43,14,10 C,Chacha Chaudhary,Rock,2,Power,300
+1/20/2018 11:53:31,9,34,Spiderman,Pop,33,Mortal Engines,293
+1/20/2018 11:54:33,7,44,Batman,Rock,36,Managing Politics and Power,400
+1/20/2018 11:58:34,8,45,Superman,Pop,40.78,Cracking the Coding Inteview,500
+1/20/2018 12:00:22,42,48,Adventure,Pop,45.18,How Asia Works,402
+1/20/2018 12:38:48,3,5 degrees Celsius,Wolverine,Rock,785.2 mm,"Reinforcement Learning, An Introduction",290
+1/20/2018 12:44:03,25,55,Spiderman,Rock,57,Golden Son,464
+1/20/2018 13:01:49,7,42 Fahrenheit,Luffy,Pop,42.17,Computer Security: Principles and Practice,814
+1/20/2018 13:06:43,33,50,tintin,Rock,43.64,Computer Security,800
+1/20/2018 13:24:31,12,38,Batman,Rock,34.85,,
+1/20/2018 13:25:51,0,37,Wonder Woman,Variety,34.85,Great North Road,976
+1/20/2018 14:00:45,7,20,Wolverine,Pop,42,Interpretation of Dreams,488
+1/20/2018 14:25:43,8,60,Beast,Heavy Metal,20,Myth America: A Historical Anthology,250
+1/20/2018 14:31:01,87,54,heman,Country,23,a gentle introduction to spark,52
+1/20/2018 14:38:22,17,49,Spider Man,Country,44,Bulding Wealth One House at a Time,231
+1/20/2018 15:36:04,11,46,Archie,Pop,53,Slaughterhouse Five,275
+1/20/2018 16:12:29,42,52,Obelix,Jazz,38.69,Oathbringer,1243
+1/20/2018 16:34:17,7,14,Spiderman,Pop,15,Machine Learning,500
+1/20/2018 16:36:34,8,39,Gambit,Rock,39,Fire and Fury,351
+1/20/2018 16:36:42,2,35 F,Superman,Rock,42.17,Beneath a Scarlet Sky,526
+1/20/2018 17:30:21,1,45,xman,Rock,100,windfill,677
+1/20/2018 18:23:05,8,54 F,Bugs Bunny,Pop,54 inches,The forver war,260
+1/20/2018 18:25:28,6,38,He-man,Pop,4.4,Learning Javascript,315
+1/20/2018 18:28:41,11,57,Superman,Pop,16.69,Extermination (Daniel Black book 3),384
+1/20/2018 18:39:34,17,65,batman,Electronic,30,none,0
+1/20/2018 19:02:53,5,45,Loki,Baroque,48,Focus and Engage,224
+1/20/2018 20:06:56,8,53,Calvin,Rock,19,The Blind Assassin,520
+1/20/2018 20:16:28,72,-2,Punisher,Rock,36.6,Moonwalking with Einstein,317
+1/20/2018 21:09:20,8,45 degrees Farenheit,Iron Man,Rock,48,Zen and the Art of Motorcycle Maintenance,418
+1/20/2018 21:50:15,10,35,Tintin,Pop,,Sapiens,350
+1/20/2018 21:50:49,17,10,,Pop,,Shoe Dog,400
+1/20/2018 21:52:04,42,46,SPiderman,Jazz,45.18,Dragonsdawn,363
+1/20/2018 21:54:11,1237,0,Aldar Kose,Hip-Hop,631.9mm,The Hitchhiker's Guide to the Galaxy,180
+1/20/2018 21:55:15,25,60,Iron man,Rock,35.48,,
+1/20/2018 21:59:50,17,45,Superman,Pop,10,The Undoing Project,368
+1/20/2018 21:59:53,7,6,Batman,Pop,40,How Children Succeed,261
+1/20/2018 22:01:43,7,55,Doraemon,Country,2.5,python for finance,606
+1/20/2018 22:01:52,7,56 Fahrenheit,Clark Kent,Pop,16.18 inch,Black Swan,400
+1/20/2018 22:02:55,13,66,batman,Country,12,sherlock holmes,235
+1/20/2018 22:03:27,2,45,Calvin,Rock,29.93,Faceoff,384
+1/20/2018 22:04:30,8,59F,Tom and Jerry,Indian classical,07-Aug,Out of my mind by Sharon M Draper,295
+1/20/2018 22:04:46,1,73,Stan,Pop,40,R Programming,24
+1/20/2018 22:05:11,18,70,Batman,Hip-Hop,45.9,Captain Underpants,230
+1/20/2018 22:06:11,2701,37,Tony Stark,Hip-Hop,42.17,Radical Candor,272
+1/20/2018 22:08:47,3.141592654,64,Batman,Electro Swing,46,Elements of Mathematics: From Euclid to G̦del,440
+1/20/2018 22:10:18,8,4,Batman,Country,,Database management ,300
+1/20/2018 22:11:05,6,5,Micky,Blues,20,Baby,1000
+1/20/2018 22:13:57,25,45,Nightcrawler,Pop,33.28,The Plague,303
+1/20/2018 22:14:33,878,85,Wolverine,Rock,28,How to build a billion dollar app,465
+1/20/2018 22:17:14,7,43,Kirito,Rock,44,Machine learning,300
+1/20/2018 22:22:39,7,21,saber,Country,10,python,1245
+1/20/2018 22:27:09,0,42,tigger,classical,54,A year with Rumi,428
+1/20/2018 22:27:54,8,55,Luffy,Pop,30,Computer Networking,865
+1/20/2018 22:30:24,7,63,dangerboat,Jazz,17,Kids are gonna be arlight,100
+1/20/2018 22:30:27,13,7 degrees celcius,Asterix,Classical,53.6,The Master Algorithm,293
+1/20/2018 22:32:21,1,55,batman,Country,1,Originals,300
+1/20/2018 22:34:03,4,62,Wonder Woman,Pop,15.08,A Storm of Swords,1089
+1/20/2018 22:38:16,22,59,colossus,Metal,30.49,The Simulacra,230
+1/20/2018 22:38:27,9,55,Shaktiman,Indian,22,Fundamentals of DB,1273
+1/20/2018 22:38:37,1,53,Alana,Pop,38.69,"Superintelligence: Paths, Dangers, Strategies",390
+1/20/2018 22:38:54,5,48,Goku,Pop,38,Fundamentals of Database Systems,1242
+1/20/2018 22:41:20,7,47,Batman,Rock,45,On Writing,320
+1/20/2018 22:42:36,9,30,Tintin,Pop,64.13,Harry Potter and the Deathly Hollows,759
+1/20/2018 22:47:50,800,48,Dogman,Hip-Hop,40.31,Ancillary Sword,380
+1/20/2018 22:50:03,42,48,Red Sonja,Rock,35,The Lord of the Rings,1008
+1/20/2018 22:51:55,112,40,batman,Rap,41,the emperors new mind ,480
+1/20/2018 22:55:57,4,48,,Jazz,11.85,More Human: Designing a world where people come first,212
+1/20/2018 22:56:17,13,69,Green Arrow,EDM,56.68,The Drawing of the Three,400
+1/20/2018 22:56:41,74,54,tintin,Country,35.48,Artificial Intelligence,1135
+1/20/2018 22:58:06,3,52,Spiderman,Rock,27,Causality,486
+1/20/2018 23:11:21,4,47,Professor Xavier,Rock,51.3,The Dark Tower,1031
+1/20/2018 23:12:00,7,37,Hulk,Rock,42,,
+1/20/2018 23:16:46,2,29 �C,Shadowcat,Rock,,Les Miserables,520
+1/20/2018 23:18:14,6,44,Spider-Man ,Rap,35,Leonardo Davinci ,1198
+1/20/2018 23:19:33,Pi,46,Peter Parker,Rock,25,A plague of giants,618
+1/20/2018 23:27:05,3055,60,Batman,Pop,20,"A Man, A Pan, A Plan",100
+1/20/2018 23:29:32,5,6,Kim Jeon-il,Jazz,250,The elements of statistics,750
+1/20/2018 23:30:25,11,42 F,Spawn,Blues,16.54,Smiley's People,384
+1/20/2018 23:32:33,100,54,tintin,Rock,24,ai,635
+1/20/2018 23:33:57,22,55,Obi wan,Rock,50,A feast for crows,996
+1/20/2018 23:34:47,7,45,Thor,Pop,11,Wise man's fear,900
+1/20/2018 23:40:01,3,58,Dick Tracy,Rock,16.17,"The Mandibles: A Family, 2029-2047",232
+1/20/2018 23:42:23,8,63,Phoenix,Rock,8.18,Big Shifts Ahead,260
+1/20/2018 23:48:54,7,16,Sabu,Hip-Hop,8.18,Python machine Learning,110
+1/20/2018 23:51:13,5,40 F,batman,Country,39.1,non-fiction,450
+1/20/2018 23:51:15,23,65,Iron Man,Christian,10,Leonardo Da Vinci,1000
+1/20/2018 23:57:20,25,54,Iron Man,Punk,38.69,SPRQ: A History of Ancient Rome,647
+1/20/2018 23:57:31,2,28,Batman,Ambient,98,Code Complete,88
+1/21/2018 0:08:01,5,54,Yugioh,Blues,58.5,Machine Learning,388
+1/21/2018 0:11:17,5,54,Yugioh,Blues,154.5,Machine Learning,391
+1/21/2018 0:13:02,7,52F,Roronoa Zoro,Indian,58,The monk who sold his Ferrari,224
+1/21/2018 0:16:06,1010,40,Nara Shikamaru,Pop,1.14,The Hitchhiker's Guide to the Galaxy,144
+1/21/2018 0:19:56,8,28 degrees celcius,Harry Potter,Pop,81,Harry Potter and the Half-blood Prince,500
+1/21/2018 0:22:07,14,83,Garfield,Country,2,Catcher in the Rye,228
+1/21/2018 0:23:24,17,12,Tintin,Blues,5,None,0
+1/21/2018 0:25:07,77,54,Rocket,Synth-pop,4.77,The Innovators,560
+1/21/2018 0:26:32,5,50,flash,Classical,7.9,Fire and Fury,312
+1/21/2018 0:26:33,8,77� F,Batman,Pop,54,A brief history of tomorrow,360
+1/21/2018 0:34:49,17,44,Batman,Rock,32.65,The Seven Pillars of Statistical Wisdom,240
+1/21/2018 0:41:48,7,73,Superman,Country,74,Computer security,817
+1/21/2018 0:48:20,7,63,saitama,Techno,8.18,Get Some Headspace,225
+1/21/2018 0:55:54,13,45,,Rock,42.77,Misbehaving,432
+1/21/2018 1:02:46,3,53,Ironman,Jazz,16,The Martian,369
+1/21/2018 1:03:32,9,80,Wonder woman,Blues,20 inches,American Sniper,328
+1/21/2018 1:05:09,21,55F,Iornman,Rock,32.34,Headfirst JavaScript,615
+1/21/2018 1:18:16,6,63,sanji,Pop,30.75,bitcoin,500
+1/21/2018 1:32:21,7,47,Bruce Wayne,Classical,10,Meditations,256
+1/21/2018 1:37:00,100,2,,Jazz,,Stoty books,100
+1/21/2018 1:38:27,4,55,Goku,Jazz,43.34,R Graphics Cookbook,413
+1/21/2018 1:42:44,7,25 degree celcius,Blondie,Indian Film music,35.6 inches,"Lean In: Women, Work, and the Will to Lead",256
+1/21/2018 2:19:47,5,67,Goku,Rock,19,What Hedge Funds Really Do: An Introduction to Portfolio Management,148
+1/21/2018 2:20:07,7,55,spiderman,Rock,112,python for finance,700
+1/21/2018 2:46:50,14,57,Chacha Choudhary,Blues,19,R In Action,579
+1/21/2018 3:17:19,2,34�C,Blank Panther,Jazz,24,The Children of H̼rin,313
+1/21/2018 3:32:15,18,64,Alfred Thaddeus Crane Pennyworth,Rap,9.65,1984,325
+1/21/2018 3:36:25,3,55,Tom,Pop,4.17,Fundamental of Database Systems,1242
+1/21/2018 4:00:14,7,28,spiderman,Carnatic ,40.1259843,Machine Learning,250
+1/21/2018 4:03:52,9,35 degree celcius,Spiderman,Country,50,Understanding Flight,50
+1/21/2018 4:43:23,9,23,Tom and Jerry,Indian Music,63,Pattern Recognition and Machine Learning,729
+1/21/2018 5:16:39,15,-8,Deadpool,Rock,32,Python for Fanance,606
+1/21/2018 5:27:28,7,21,Naruto,Rap,118,Who moved my cheers,32
+1/21/2018 6:00:15,7,32,Doraemon,Pop,85.27,Insight: How to Succeed by Seeing Yourself Clearly,357
+1/21/2018 6:15:15,13,19,Iron Man,Rock,1.959,The Tipping Point: How Little Things Can Make a Big Difference,280
+1/21/2018 6:49:18,12,1 Degree,Superman,Rap,27.26,Scion of Ikshvaku,380
+1/21/2018 7:49:45,,,,,,Glass castle,200
+1/21/2018 8:11:31,3,43,Iron Man,Rock,10 inches,Investing 101,150
+1/21/2018 8:49:27,7,50,Spider man,Country,67,Monk who sold his safari,300
+1/21/2018 9:10:19,2,68,Mighty Mouse,Bluegrass,51.08,The Making of the Atomic Bomb,886
+1/21/2018 9:12:42,2,56,superman,Pop,42.4,The Heart Is a Lonely Hunter,368
+1/21/2018 9:13:29,33,56,Spiderman,Country,52,R Programming,300
+1/21/2018 9:13:50,2,56,Superman,Pop,42.4,The Heart Is a Lonely Hunter,368
+1/21/2018 9:22:12,8,38,spiderman,Jazz,don't know,never eat alone,300
+1/21/2018 9:44:04,16,47,Hawkeye,Rock,35.97,Micro,424
+1/21/2018 9:48:25,7,45,deadpool,Rap,42.82,The Pheonix Project,376
+1/21/2018 9:53:04,4,62 F,Spiderman,Country,33-34,The Apartment by Daniel Steel,416
+1/21/2018 10:05:50,7,52,Conan The Barbarian,Pop,32.65,Automotive Technology,1665
+1/21/2018 10:06:07,8,31F,Spider Man,Pop,1.85 inch,Python Machine Learning,317
+1/21/2018 10:08:37,7,61,Silver Surfer,Pop,35.34,The Stranger in the Woods: the extraordinary story of the last true hermit,224
+1/21/2018 10:09:48,8,12,naruto,Pop,38.69,stochastic calculus,600
+1/21/2018 10:11:06,ninety nine thousand nine hundred ninety nine,fifty five,V,EDM,twenty eight point one nine,How to win friends & influence people,260
+1/21/2018 10:32:46,0,40,batman,Rock,10,the art of the deal,372
+1/21/2018 10:53:24,4,40,Wolverine,Country,36.9,What hedge funds really do,138
+1/21/2018 10:53:44,9,45F,Batman,Rock,32.93,The Man in the High Castle,240
+1/21/2018 10:55:15,11,49 F,Ms. Marvel,Indie,43.6,Harry Potter and the Goblet of Fire,734
+1/21/2018 11:30:10,7,64,The Flash,Hip-Hop,38.85,mr penumbra's 24 hour bookstore,288
+1/21/2018 11:42:26,42,21,dennis,Jazz,32,None,0
+1/21/2018 11:53:13,83,50,spider man,Blues,50,The Illicit Happiness of Other People,351
+1/21/2018 11:56:43,7,67,Spiderman,Pop,46.62,A Murder in Auschwitz,264
+1/21/2018 12:16:49,7,46,Wolverine,Rock,37.24,Machine Learning,414
+1/21/2018 12:20:31,9,30 C,Logan,depends upon mood,don't remember,Sita,350
+1/21/2018 12:22:01,7,45,jerry,Rock,30,de profundis,212
+1/21/2018 12:50:32,10,86,Superman,Rock,64 inches,R in action,608
+1/21/2018 12:54:39,27,52,Dont have one,Pop,38.69,Murder on the orient express,265
+1/21/2018 13:32:12,42,50,Dream,Rock,30,What Hedge Funds Really Do,148
+1/21/2018 13:35:50,24,60,Superman,Rock,39.7,A Column of Fire,928
+1/21/2018 13:39:05,6,49,Batman,Rock,44.96,Camino Island,304
+1/21/2018 13:42:28,15,59,Nightcrawler ,Pop,20,Thinking fast and slow,640
+1/21/2018 13:48:06,27,55,spiderman,Indian carnatic music,1.42,Boggleheads guide to Investing,310
+1/21/2018 13:56:20,1,31,pinki,Blues,13.622,All The Missing Girls,400
+1/21/2018 14:06:20,8,53F,Spiderman,Rock,0.666666667,Moneyball,317
+1/21/2018 14:09:21,7,65,Goku,Pop,30,Fire and Fury,336
+1/21/2018 14:09:57,99,69,Daredevil ,Synthwave ,55,"Blood, Sweat, and Pixels ",280
+1/21/2018 14:22:25,25,61,I dont have any,Soft,33.55,The Girl with the Dragon Tattoo,463
+1/21/2018 14:34:31,3,36,batman ,Rock,50,computer science distilled,168
+1/21/2018 15:31:33,3,45,ROM,Folk,27.4,Ben Franklin: An American Life,586
+1/21/2018 15:37:05,7,52,Batman,Rock,42.82,La increible y triste historia de la candida Erendira,163
+1/21/2018 15:47:54,9,47,hulk,Country,40,Investing Demystified,382
+1/21/2018 15:48:03,24,40,Iron Man,Country,58,Steve Jobs,631
+1/21/2018 16:16:40,4,64,Spiderman,Pop,51,Iron Gold,596
+1/21/2018 16:17:26,5,50F,Dennis the menace,Pop,25,How to stop worrying and start living,872
+1/21/2018 16:35:53,8,104,Iron Man,Country,60,Zero to One,60
+1/21/2018 16:50:58,1,50,Iron Man,Pop,14,House of Silk,237
+1/21/2018 16:52:16,10,46,shin,down tempo,20,tile,100
+1/21/2018 16:52:26,95,61,CAPTAIN HADDOCK,Hip-Hop,37.26,Fundamentals of Database Systems,1272
+1/21/2018 17:00:14,64,53,Spider Man,Hip-Hop,35,The Innovators,560
+1/21/2018 17:01:16,8,10,Heros,Pop,50,LPTHW,200
+1/21/2018 17:01:51,9,72,spider man,Pop,56.68,2 states,321
+1/21/2018 17:08:41,6,53,Spiderman,Hip-Hop,35.32,The Circle,497
+1/21/2018 17:23:28,42,12,Magneto,Rock,42.17,Jurassic Park,400
+1/21/2018 17:28:31,2.718281828,1E+25,,Death Metal,-100000,Facebook,99999999999
+1/21/2018 17:31:21,7,58,Superman,Pop,18.58,Python for Finance,604
+1/21/2018 17:52:58,2,51,Iron Man,Jazz,40.47,Russian Course,514
+1/21/2018 18:15:39,12,62,Iron Man,Rock,59.63,No Bullshit Guide to Linear Algebra,550
+1/21/2018 18:31:13,8,49,Thor,Trance,43,Design Patterns,395
+1/21/2018 18:35:09,3,50,Doraemon,Country,20.21,Fundermentals of Database Systems,1242
+1/21/2018 18:39:45,7,60,Sonic,Classical,49.7,The Millionaire Next Door,270
+1/21/2018 19:04:17,17,50,Snowy,Spotify Recommendations,44.67,The name of the wind,662
+1/21/2018 19:27:19,42,32 Celsius,Spider Man,Pop,39.37,"Robots Will Steal Your Job, But That's Ok",215
+1/21/2018 20:18:26,69,48,Batman,Hip-Hop,40,"The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution",528
+1/21/2018 20:27:24,7,13,Rick,Country,30,The Art of Rick and Morty,223
+1/21/2018 20:28:15,3,64,Chew,Rock,56.4,Words of Radiance,1104
+1/21/2018 20:42:55,29,60,Spiderman,Pop,40.78,Anna Karenina,736
+1/21/2018 20:53:06,14,72,Ironman,Rock,55,The Demon Crown,464
+1/21/2018 21:01:22,40,64,Spawn,Pop,13,Fire And Fury,336
+1/21/2018 21:06:54,42,47,wolverine,Jazz,43.5,Data and Goliath,448
+1/21/2018 21:23:17,21,50,Calvin,Classical,45.2,Mockingjay,398
+1/21/2018 21:42:18,38,48 F,The Punisher,Hip-Hop,37.78,All the Pretty Horses,301
+1/21/2018 21:57:19,2,63,batman,Rock,10,the martian,350
+1/21/2018 21:59:15,5,42,Batman,Rock,34,The Devotion of Suspect X,280
+1/21/2018 22:15:20,3333,62,Mogli,Bollywood,38.69,R for Data Science,483
+1/21/2018 22:28:11,9,60,goku,Country,100,harry potter,500
+1/21/2018 22:29:12,5342,29 degrees celsius,Garfield,Rock,43mm,Small Data,200
+1/21/2018 22:36:51,23,51,spiderman,Pop,dont know,Prime obsession,400
+1/21/2018 22:49:03,4,68,wonder woman,Pop,8.18,pandemic,1699
+1/21/2018 22:54:20,21,55,Batman,Rock,,Astrophysics for People in a Hurry ,
+1/21/2018 23:09:15,5,56,Wonder Woman,Country,,Game of Thrones Anthology,694
+1/21/2018 23:16:23,7,60,Superman,Rock,8.18,Deep Learning,775
+1/21/2018 23:37:31,23,60.1,Batman,Blues,38.69,Steve Jobs,631
+1/21/2018 23:52:59,7,21,Aladdin,Rock,,,
+1/22/2018 1:09:11,43,29,Spiderman,Pop,14,Presence,344
+1/22/2018 2:27:04,17,57,spiderman,Pop,0.3,Fundamentals of Database Systems,1242
+1/22/2018 2:51:06,-1,63,Mr Poopybutthole,Hip-Hop,9.65,Fire and Fury,336
+1/22/2018 5:09:50,7,34,Luffy,House,50,Harry Potter,3422
+1/22/2018 6:44:59,13,38,Batman,All,47,Fire and Furry,336
+1/22/2018 7:23:52,7,48degC,Batman,Rock,?,Rich Dad Poor Data,248
+1/22/2018 8:07:34,13,62,Wolverine,Rock,39.7 inches,How to Kill a Mockingbird,281
+1/22/2018 8:30:20,8,31,,Jazz,5,Machine learning ,500
+1/22/2018 8:53:01,7,60,Batman,Hip-Hop,,Rich Dad Poor Dad,200
+1/22/2018 9:18:00,10,40,Batman,Rock,45.96,Soccernomics,414
+1/22/2018 9:36:12,7,66,Garfield,World,50,Python For Finance,600
+1/22/2018 9:48:49,18,69,Spider-Man,Punk,16.92,A Man for All Markets,416
+1/22/2018 9:56:35,19,60,Spiderman,Rap,38.69,Data Structures and Algorithms,773
